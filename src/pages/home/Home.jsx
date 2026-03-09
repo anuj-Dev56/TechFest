@@ -1,6 +1,6 @@
 import React from "react";
 import PixelBlast from "../../../components/ui/PixelBlast";
-import { Panel } from "../../../components/ui/panel";
+import { Panel } from "../../../components/ui/Panel.jsx";
 
 const Home = () => {
   return (
