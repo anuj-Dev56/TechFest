@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+    user-select: none;
+}
+
+body {
+    @apply bg-black text-white;
+}
